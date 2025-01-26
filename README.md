@@ -109,4 +109,4 @@ HerAccess is a web application built for the 2025 InnovateHer hackathon. It is a
 
 ## Contributors
 
-HerAccess was created by Josephine Bradley, Samiksha Gupta, Remley Hooker, and Ileema Pradhan
+HerAccess was created by Josephine Bradley, Samiksha Gupta, Remley Hooker, and Ileema Pradhan.
