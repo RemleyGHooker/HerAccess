@@ -1,6 +1,6 @@
 # HerAccess
 
-### A web application for women's reproductive health access in the Illinois and Indiana 
+### A web application for women's reproductive health access in the Illinois and Indiana. 
 
 <hr>
 
