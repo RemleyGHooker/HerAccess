@@ -1,0 +1,141 @@
+Address
+Latitude
+Longitude
+938 Mezzanine Dr # B, Lafayette, IN 47905
+40.4105
+-86.8505
+253 Sagamore Pkwy W, West Lafayette, IN 47906
+40.4542
+-86.9125
+2316 South St, Lafayette, IN 47904
+40.4173
+-86.8706
+1701 S Creasy Ln, Lafayette, IN 47905
+40.3932
+-86.8356
+5177 McCarty Ln, Lafayette, IN 47905
+40.3755
+-86.8256
+1716 Hartford St, Lafayette, IN 47904
+40.4189
+-86.8712
+964 Mezzanine Dr, Lafayette, IN 47905
+40.4107
+-86.8503
+3920 St Francis Way Suites 100 & 110, Lafayette, IN 47905
+40.3935
+-86.8350
+1025 Michigan Ave #115, Logansport, IN 46947
+40.7545
+-86.3640
+601 Stadium Mall Dr, West Lafayette, IN 47907
+40.4274
+-86.9160
+407 E Market St #106, Crawfordsville, IN 47933
+40.0412
+-86.8995
+2600 Ferry St, Lafayette, IN 47904
+40.4280
+-86.8590
+2600 Greenbush St, Lafayette, IN 47904
+40.4285
+-86.8595
+1901 Lafayette Rd, Crawfordsville, IN 47933
+40.0280
+-86.8910
+3536 Promenade Pkwy, Lafayette, IN 47909
+40.3610
+-86.8510
+1509 N Bowman Ave, Danville, IL 61832
+40.1600
+-87.6130
+4901 W 86th St, Indianapolis, IN 46268
+39.9120
+-86.2430
+
+
+3750 N Meridian St Ste 100, Indianapolis, IN 46208
+39.8274
+-86.1563
+618 W Lincoln Ave, Charleston, IL 61920
+39.4919
+-88.1859
+333 S Madison St, Muncie, IN 47305
+40.1919
+-85.4017
+230 E Ohio St Suite 200, Indianapolis, IN 46204
+39.7701
+-86.1538
+1001 N Western Ave Suite D, Marion, IN 46952
+40.5745
+-85.6730
+
+
+355 N Martin Jischke Dr, West Lafayette, IN 47906
+40.4280
+-86.9160
+
+
+340 Centennial Mall Dr, West Lafayette, IN 47907
+40.4274
+-86.9160
+
+
+1122 W Stadium Ave, West Lafayette, IN 47906
+40.4285
+-86.9290
+
+
+1301 3rd Street, West Lafayette, IN 47906
+40.4240
+-86.9210
+
+
+128 Memorial Mall Dr, West Lafayette, IN 47907
+40.4270
+-86.9130
+
+
+501 Northwestern Ave, West Lafayette, IN 47907
+40.4280
+-86.9100
+
+
+100 S Grant St, West Lafayette, IN 47907
+40.4250
+-86.9110
+
+
+1275 1st Street, West Lafayette, IN 47906
+40.4230
+-86.9200
+
+
+2109 S Neil St, Champaign, IL 61820
+40.0910
+-88.2450
+1109 S Lincoln Ave 2nd Floor, Urbana, IL 61801
+40.1036
+-88.2194
+302 E Stoughton St Suite #2, Champaign, IL 61820
+40.1164
+-88.2350
+205 Wilbur Ave, Champaign, IL 61822
+40.1164
+-88.2434
+2008 N Market St, Champaign, IL 61822
+40.1430
+-88.2400
+4938 W 95th St, Oak Lawn, IL 60453
+41.7200
+-87.7440
+602 W University Ave, Urbana, IL 61801
+40.1150
+-88.2170
+1405 W Park St #302, Urbana, IL 61801
+40.1100
+-88.2200
+2111 W Park Ct, Champaign, IL 61821
+40.1160
+-88.2690
+
