@@ -4,7 +4,7 @@ export default function EscapeButton() {
   const handleExit = () => {
     try {
       // Directly assign to window.location to force navigation in current tab
-      window.location.assign("https://www.google.com/search?q=pro life");
+      window.location.assign("https://www.google.com/search?q=weather");
     } catch (error) {
       console.error("Redirect failed:", error);
       // Fallback method
